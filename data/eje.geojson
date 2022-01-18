@@ -1,4 +1,5 @@
 {
+ "name": "eje.geojson",
 "type": "FeatureCollection",
 "name": "eje",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4686" } },
